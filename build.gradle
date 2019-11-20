@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'com.palantir.git-version' version '0.12.2'
+}
+
+group 'com._98elements'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web:2.1.9.RELEASE'
+}
+
+version gitVersion()
