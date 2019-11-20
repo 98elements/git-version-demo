@@ -1,6 +1,7 @@
 plugins {
     id 'java'
     id 'com.palantir.git-version' version '0.12.2'
+    id 'org.springframework.boot' version '2.1.9.RELEASE'
 }
 
 group 'com._98elements'
