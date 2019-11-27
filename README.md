@@ -1,6 +1,6 @@
 # Automatic versioning of Java applications using Git-Version Gradle Plugin
 
-Code for a blog post Automatic versioning of Java applications using Git-Version Gradle Plugin.
+Code for a blog post [Automatic versioning of Java applications using Git-Version Gradle Plugin](https://98elements.com/blog/automatic-versioning-of-java-applications-using-git-version-gradle-plugin/).
 
 ## Build the Application
 
